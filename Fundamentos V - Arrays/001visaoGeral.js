@@ -27,3 +27,4 @@ console.log(aprovados[2])
 aprovados = [ 'Bia', 'Carlos', 'Ana']
 aprovados.splice(0, 2, 'Elemento1', 'Elemento2')
 console.log(aprovados)
+console.log("mais um teste")
